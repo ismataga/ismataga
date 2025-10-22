@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ismat Aghamirzayev</h1>
 <h3 align="center">A passionate Java developer from Azerbaijan</h3>
 
-- 🔭 I’m currently working on **GoldenPay**
+- 🔭 I’m currently working on **Cybernet**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **System design**
 
 - 👯 I’m looking to collaborate on **Everything in Java**
 
